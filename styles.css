@@ -1,0 +1,22 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    background-color: #f0f0f0;
+    color: black;
+    font-size: 45px;
+    padding: 20px;
+    margin: 0;
+}
+.recipes {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-right: 10px; 
+}
+a {
+    text-decoration: none;
+}
